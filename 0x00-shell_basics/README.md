@@ -1,1 +1,1 @@
-Script that lists all files
+File type
