@@ -1,1 +1,1 @@
-Script that changes the working directory
+The long format
