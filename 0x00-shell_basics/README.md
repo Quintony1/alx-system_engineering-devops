@@ -1,1 +1,1 @@
-Command that list all the files and directories
+Display current current directory contents in a long format
