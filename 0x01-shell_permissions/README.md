@@ -1,1 +1,1 @@
-Script thats excecution permission
+Script that sets the permission to the file
