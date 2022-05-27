@@ -1,1 +1,1 @@
-Life is a series of commas, not periods
+Command that list all the files and directories
