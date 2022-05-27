@@ -1,1 +1,1 @@
-Script that adds execute permission
+Script thats excecution permission
