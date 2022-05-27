@@ -1,1 +1,1 @@
-Script that ads execute permission
+Script that creates a directory
