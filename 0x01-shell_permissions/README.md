@@ -1,1 +1,1 @@
-Script that prints all the groups
+Script that changes the owner
