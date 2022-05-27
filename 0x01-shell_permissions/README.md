@@ -1,1 +1,1 @@
-Script that sets themode of the file
+Script that ads execute permission
