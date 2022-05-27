@@ -1,1 +1,1 @@
-Creating a script that creates the directories
+Creating a script that creates directories
