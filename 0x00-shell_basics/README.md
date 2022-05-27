@@ -1,1 +1,1 @@
-Creating a script that creates directories
+command that lists all the files and directories
