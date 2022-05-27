@@ -1,1 +1,1 @@
-Script that swiches next user
+Script that prints the effective username
