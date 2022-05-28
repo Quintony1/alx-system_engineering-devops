@@ -1,1 +1,1 @@
-Deleting the file
+Deleting the directory
