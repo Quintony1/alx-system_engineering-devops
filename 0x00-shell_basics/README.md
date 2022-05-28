@@ -1,1 +1,1 @@
-Creating a symbolic link
+Creating a script that moves all the files
