@@ -1,1 +1,1 @@
-Creating a scripth that prints the absolute path name
+Displaying the content list
