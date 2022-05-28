@@ -1,1 +1,1 @@
-Writing a script that changes the working directory
+Displaying current directory format
