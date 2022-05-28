@@ -1,1 +1,1 @@
-Creating a magic file
+Creating a scripth that prints the absolute path name
