@@ -1,1 +1,1 @@
-confused smiley script
+Let's display a file
