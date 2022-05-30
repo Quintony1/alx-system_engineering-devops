@@ -1,1 +1,1 @@
-reversing input
+script that displays all users
