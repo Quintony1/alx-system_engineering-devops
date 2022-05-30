@@ -1,1 +1,1 @@
-writing into the file
+duplicating last line
