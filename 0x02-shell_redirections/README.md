@@ -1,1 +1,1 @@
-finding all empty files
+listing all gifs
