@@ -1,1 +1,1 @@
-creating an alias
+script that prints
