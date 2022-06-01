@@ -1,1 +1,1 @@
-var
+all variables
