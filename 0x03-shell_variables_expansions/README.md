@@ -1,1 +1,1 @@
-addition
+divide and rule
